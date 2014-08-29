@@ -1,7 +1,7 @@
 <package type="addon" name="nuxeo-indexing-gateway" version="@VERSION@">
   <title>Nuxeo Indexing Gateway</title>
   <description>
-	<p>The Nuxeo Indexing Gateway package provides a WebService API that enables an external indexer to index the documents that are inside the Nuxeo repository.</p>
+  <p>The Nuxeo Indexing Gateway package provides a WebService API that enables an external indexer to index the documents that are inside the Nuxeo repository.</p>
   </description>
   <home-page>https://github.com/nuxeo/nuxeo-platform-indexing-gateway</home-page>
   <vendor>Nuxeo</vendor>
@@ -19,4 +19,5 @@
   </platforms>
   <license>LGPL</license>
   <license-url>http://www.gnu.org/licenses/lgpl.html</license-url>
+  <visibility>MARKETPLACE</visibility>
 </package>
